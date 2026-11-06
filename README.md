@@ -1,5 +1,4 @@
-# Microsoft-Corporate-Financial-Statement-Analysis
-Financial analysis of Microsoft from 2022 to 2026 using Python, Pandas and Matplotlib.
+
 # Microsoft Corporate Financial Statement Analysis (2022–2026)
 
 ## Project Overview
