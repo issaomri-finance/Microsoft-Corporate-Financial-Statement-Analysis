@@ -91,5 +91,22 @@ pip install -r requirements.txt
 4. Run the cells in order.
 
 ## Author
+## Financial Visualizations
+
+### 1. Revenue Evolution
+
+![Microsoft Revenue Evolution](outputs/charts/revenue_evolution.png)
+
+### 2. Net Income Evolution
+
+![Microsoft Net Income Evolution](outputs/charts/net_income_evolution.png)
+
+### 3. Profitability Margins
+
+![Microsoft Profitability Margins](outputs/charts/profitability_margins.png)
+
+### 4. Return on Assets and Debt Ratio
+
+![Microsoft ROA and Debt Ratio](outputs/charts/roa_debt_ratio.png)
 
 issaomri-finance
